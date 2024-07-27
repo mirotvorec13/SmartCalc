@@ -1,0 +1,24 @@
+\input texinfo
+@c === умный калькулятор ===
+
+Super smart calculator. There's actually a gun!
+Can display graphs QCustomPlot is a widget
+Qt C++ for plotting and visualizing data.
+It has no additional dependencies and is good
+documented This charting library
+designed to create beautiful 2D graphics,
+publishing quality graphs and diagrams,
+and also provides high performance for
+real-time visualization applications.
+
+It is also possible to enter a value (X)
+There is an input field for the range of calculations - Range
+
+In the X_MAX field, enter the drawing along X
+In the Y_MAX field, enter the drawing along Y
+
+In the Step field, enter the number of points to calculate
+
+There is a loan calculator to calculate the loan, interest and overpayment.
+
+@bye
